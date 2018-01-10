@@ -1,4 +1,5 @@
 import random
+
 ran=[0]*30
 lis=[]
 prod=[]
