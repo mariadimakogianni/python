@@ -12,6 +12,7 @@ for m in range (1000):
                 paiktis.append(x)
          paiktes.append(paiktis)
     noep=[]
+
     while bingo not in paiktes:
         y=random.randint(1,80)
         if y not in noep:
